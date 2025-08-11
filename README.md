@@ -1,2 +1,0 @@
-# paginaInstituto
-Pagina para maranatha
